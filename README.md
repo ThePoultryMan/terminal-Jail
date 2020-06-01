@@ -1,5 +1,5 @@
 # terminal Jail
-###### You can also see this in the game files (duh), for people in the game files go to 
+###### You can also see this in the game files (duh), for people in the game files go to https://github.com/ThePoultryMan/terminal-Jail
 This repository contains the files of my game: terminal Jail
 
 #### It is important to remember that this game is a prototype
