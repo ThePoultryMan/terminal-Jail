@@ -1,5 +1,6 @@
 # terminal Jail
 ###### You can also see this in the game files (duh), for people in the game files go to https://github.com/ThePoultryMan/terminal-Jail
+###### This is a development build of terminal jail. To do any edits you will need to open it with Unity. To download the installer go to the Wiki. https://github.com/ThePoultryMan/terminal-Jail/wiki
 This repository contains the files of my game: terminal Jail
 
 #### It is important to remember that this game is a prototype
