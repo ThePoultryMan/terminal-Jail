@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e4965692f94a741a8d4552837eca63, type: 3}
+  m_Name: b.2
+  m_EditorClassIdentifier: 
+  storyText: 'You: You''ll never get it.
+
+    [terminal]: Your human, you''ll die,
+    then I can take the data. As long as my servers are online then I can''t die.
+
+
+    1.
+    Really? What about when your technollogy gets old?
+
+    2. Let''s talk.'
+  nextStates:
+  - {fileID: 11400000, guid: 67ec143ba63fde84caa4af911c28e32c, type: 2}
+  - {fileID: 11400000, guid: 67ec143ba63fde84caa4af911c28e32c, type: 2}

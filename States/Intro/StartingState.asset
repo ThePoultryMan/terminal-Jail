@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e4965692f94a741a8d4552837eca63, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to terminal Jail!
+
+
+    This is a text-based adventure game.
+
+
+    To
+    follow the different paths you will want to press the corresponding number, to
+    the path you want to follow, on your keyboard (Not keypad). Click "Q" to quit
+    to the main menu
+
+
+    Have fun?
+
+
+    1. Start game!'
+  nextStates:
+  - {fileID: 11400000, guid: a57cd3a4246fa6349960d3269fd051ad, type: 2}

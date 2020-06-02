@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e4965692f94a741a8d4552837eca63, type: 3}
+  m_Name: a
+  m_EditorClassIdentifier: 
+  storyText: 'You: Who are you?
+
+    [terminal]: I am terminal, built by terminal
+    Services. Would you like anything for your stay?
+
+
+    1. Yes...
+
+    2. No!'
+  nextStates:
+  - {fileID: 11400000, guid: 74660e3b3e7e44148a6112dcfe6453c5, type: 2}
+  - {fileID: 11400000, guid: a6e92ef4840bad54daff52ae55bcf1a1, type: 2}
